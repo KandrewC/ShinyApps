@@ -1,0 +1,8 @@
+name: ShinyApps
+account: kandrewc
+server: shinyapps.io
+bundleId: 385745
+url: https://kandrewc.shinyapps.io/ShinyApps/
+when: 1456942972.80642
+asMultiple: FALSE
+asStatic: FALSE
